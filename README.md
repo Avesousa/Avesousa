@@ -2,7 +2,7 @@
 
 I'm a software developer full stack. 
 
-### I work with this tech:
+### 🔭 I work with this tech : 
 #### Frontend
 <div style="display: flex">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -27,6 +27,11 @@ I'm a software developer full stack.
   <img align="center" alt="MongoDB" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
 </div>
 
+### 🌱 I’m currently learning
+  Solidity and network of Ethereum
+  <img align="center" alt="Solidity" height="30" width="20" src="https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/db4de/eth-home-icon.webp">
+</div>
+
 #
 <div align="center">
   <a href="https://github.com/Avesousa">
@@ -36,12 +41,8 @@ I'm a software developer full stack.
 
 
 <!--
-**Avesousa/Avesousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
