@@ -2,7 +2,7 @@
 
 I'm a software developer full stack. 
 
-### 🔭 I work with this tech : 
+### 🔭 Technology: 
 #### Frontend
 <div style="display: flex">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
