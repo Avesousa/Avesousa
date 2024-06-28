@@ -1,6 +1,6 @@
 # Hi, I'm Avelino Figueira 👋
 
-I'm a software developer full stack. 
+I'm a software developer full stack,  Web3 & BlockChain
 
 ### 🔭 Technology: 
 #### Frontend
